@@ -1,0 +1,11 @@
+Sep 06 10:12:01 kali sshd-session[1001]: Failed password for invalid user admin from 192.168.100.50 port 41001 ssh2
+Sep 06 10:12:03 kali sshd-session[1002]: Failed password for invalid user admin from 192.168.100.50 port 41002 ssh2
+Sep 06 10:12:05 kali sshd-session[1003]: Failed password for invalid user admin from 192.168.100.50 port 41003 ssh2
+Sep 06 10:12:07 kali sshd-session[1004]: Failed password for invalid user admin from 192.168.100.50 port 41004 ssh2
+Sep 06 10:12:09 kali sshd-session[1005]: Failed password for invalid user admin from 192.168.100.50 port 41005 ssh2
+Sep 06 10:13:01 kali sshd-session[1011]: Accepted password for admin from 192.168.100.50 port 41006 ssh2
+Sep 06 10:15:21 kali sshd-session[1006]: Accepted password for helpdesk from 192.168.100.73 port 45001 ssh2
+Sep 06 10:16:02 kali sshd-session[1007]: Failed password for root from 10.10.10.15 port 52001 ssh2
+Sep 06 10:16:05 kali sshd-session[1008]: Failed password for root from 10.10.10.15 port 52002 ssh2
+Sep 06 10:16:08 kali sshd-session[1009]: Failed password for root from 10.10.10.15 port 52003 ssh2
+Sep 06 10:20:11 kali sshd-session[1010]: Accepted password for kali from 192.168.100.20 port 33001 ssh2

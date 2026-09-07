@@ -1,0 +1,10 @@
+========================================
+ Authentication Security Report
+========================================
+
+Total attempts:      0
+Successful attempts: 0
+Failed attempts:     0
+
+Failed Attempts by IP
+---------------------

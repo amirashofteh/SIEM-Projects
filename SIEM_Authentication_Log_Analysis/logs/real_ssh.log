@@ -1,0 +1,12 @@
+Jul 14 16:48:04 kali sshd-session[7555]: Accepted password for helpdesk from 192.168.100.73 port 45611 ssh2
+Jul 14 16:48:04 kali sshd-session[7555]: pam_unix(sshd:session): session opened for user helpdesk(uid=1000) by helpdesk(uid=0)
+Jul 14 17:24:41 kali sshd-session[7555]: syslogin_perform_logout: logout() returned an error
+Jul 14 17:24:41 kali sshd-session[7566]: Connection closed by 192.168.100.73 port 45611
+Jul 14 17:24:41 kali sshd-session[7555]: pam_unix(sshd:session): session closed for user helpdesk
+Jul 15 12:58:03 kali sshd-session[14983]: Accepted password for helpdesk from 192.168.100.73 port 15577 ssh2
+Jul 15 12:58:03 kali sshd-session[14983]: pam_unix(sshd:session): session opened for user helpdesk(uid=1000) by helpdesk(uid=0)
+Jul 15 12:58:20 kali sshd-session[14983]: syslogin_perform_logout: logout() returned an error
+Jul 15 12:58:20 kali sshd-session[14994]: Connection closed by 192.168.100.73 port 15577
+Jul 15 12:58:20 kali sshd-session[14983]: pam_unix(sshd:session): session closed for user helpdesk
+-- Boot f345b4f76f8e4211adc3863aa2bf6c71 --
+Jul 22 12:34:29 kali sshd-session[9380]: Connection closed by 192.168.100.159 port 47668 [preauth]
