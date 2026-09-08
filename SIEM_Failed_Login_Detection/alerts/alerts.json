@@ -1,0 +1,15 @@
+[
+  {
+    "rule": "SSH Brute Force",
+    "severity": "HIGH",
+    "source_ip": "::1",
+    "failed_attempts": 6,
+    "time_window": "5 minutes",
+    "first_seen": "Sep 08 10:45:55",
+    "last_seen": "Sep 08 10:47:15",
+    "targeted_users": [
+      "helpdesk",
+      "wronguser"
+    ]
+  }
+]

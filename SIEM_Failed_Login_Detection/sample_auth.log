@@ -1,0 +1,13 @@
+Sep 08 10:45:45 kali sshd-session[60968]: Invalid user wronguser from ::1 port 45138
+Sep 08 10:45:53 kali sshd-session[60968]: pam_unix(sshd:auth): check pass; user unknown
+Sep 08 10:45:53 kali sshd-session[60968]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1
+Sep 08 10:45:55 kali sshd-session[60968]: Failed password for invalid user wronguser from ::1 port 45138 ssh2
+Sep 08 10:46:18 kali sshd-session[60968]: Failed password for invalid user wronguser from ::1 port 45138 ssh2
+Sep 08 10:46:19 kali sshd-session[60968]: Failed password for invalid user wronguser from ::1 port 45138 ssh2
+Sep 08 10:46:19 kali sshd-session[60968]: Connection closed by invalid user wronguser ::1 port 45138 [preauth]
+Sep 08 10:47:05 kali sshd-session[63712]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1  user=helpdesk
+Sep 08 10:47:07 kali sshd-session[63712]: Failed password for helpdesk from ::1 port 47242 ssh2
+Sep 08 10:47:12 kali sshd-session[63712]: Failed password for helpdesk from ::1 port 47242 ssh2
+Sep 08 10:47:15 kali sshd-session[63712]: Failed password for helpdesk from ::1 port 47242 ssh2
+Sep 08 10:47:15 kali sshd-session[63712]: Connection closed by authenticating user helpdesk ::1 port 47242 [preauth]
+Sep 08 10:47:15 kali sshd-session[63712]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=::1  user=helpdesk
